@@ -94,7 +94,7 @@ Desktop app launch
 Voice recording
 Speech-to-text transcription
 
-👉 Demo video link:
+👉 Demo video link:https://drive.google.com/file/d/10hbRHTMnK34rEy7Vk_2W6jcgGKBZc4Wv/view?usp=drive_link
 
 
 
