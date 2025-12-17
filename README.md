@@ -82,11 +82,8 @@ On release, the audio is sent to Deepgram via REST API
 Deepgram processes the audio and returns transcription
 Transcribed text is displayed in the application
 
-⚠️ Known Limitations
-Uses REST-based transcription 
-No advanced UI styling or animations
-No offline transcription support
-Minimal error handling 
+*-Due to platform-level limitations with long-lived WebSocket connections, real-time streaming transcription via WebSockets was not reliable in this environment.
+Instead, the application uses REST-based transcription, where audio is recorded and sent as a complete request for processing.
 
 📽 Demo Video
 A demo video showcasing:
